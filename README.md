@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Search best Operating system for productivity and for programmer and students also.<br>🌱 I’m currently learning Django, Docker and Some ReactJs.
+🔭 I’m currently working on Searching best Operating system for productivity and for programmer and students also.<br>🌱 I’m currently learning Django, Docker and Some ReactJs.
 
 
 ## 🌐 Socials:
