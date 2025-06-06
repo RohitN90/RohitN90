@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Searching best Operating system for productivity and for programmer and students also.<br>🌱 I’m currently learning Django, Docker and Some ReactJs.
+🔭 I’m Btech Graduate im Computer Science and Engineering, and I am interested in Frontend Development and also in MERN Stack, Spring Boot.<br>🌱 I’m currently learning Rust, Docker and Building Projects with MERN Stack.
 
 
 ## 🌐 Socials:
